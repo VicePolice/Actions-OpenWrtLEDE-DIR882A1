@@ -35,7 +35,7 @@ env:
   UPLOAD_COWTRANSFER: true
   UPLOAD_WETRANSFER: true
   UPLOAD_RELEASE: false
-  TZ: Asia/Shanghai
+  TZ: Europe/Kiev
 
 jobs:
   build:
